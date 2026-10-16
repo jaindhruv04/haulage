@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+generated/
+*.log
+.DS_Store
+Thumbs.db
+server/.agents/
+server/.claude/
+server/.windsurf/
